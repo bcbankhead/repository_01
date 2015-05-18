@@ -1,0 +1,13 @@
+div.div1{
+    display: none;
+    text-align: center;
+}
+
+img { 
+	border: 0; 
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
