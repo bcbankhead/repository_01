@@ -1,3 +1,10 @@
+body, h1, h2, h3, h4, h5, h6, ol, ul, li, p { 
+
+font-family: arial, verdana, arial, helvetica, sans-serif;
+font-size: 12;
+ background-color: #000000;
+}
+
 div.div1{
     display: none;
     text-align: center;
@@ -6,8 +13,23 @@ div.div1{
 img { 
 	border: 0; 
 }
+
 .center {
     margin-left: auto;
     margin-right: auto;
     width: 400px;
+}
+
+div.kiss {
+background-image: url('https://cloud.githubusercontent.com/assets/12171050/7663550/4ebca71a-fb29-11e4-91fb-66f725d375bc.gif'); 
+width: 425px; 
+height: 200px;
+background-position: center;
+}
+
+
+div.kiss-text {
+    display: none;
+    text-align: center;
+    color: #FFFFFF;
 }
